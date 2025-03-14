@@ -1,5 +1,5 @@
 #!/bin/env bash
-
+# This is my first git file - Moin
 #display the os version on the vm
 
 cat /etc/os-release
@@ -12,6 +12,5 @@ uname -a
 
 hostname -I
 
-ip a
+cat /etc/shells
 
-cat /etc/hostname
